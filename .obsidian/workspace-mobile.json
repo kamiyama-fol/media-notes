@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a3eb6b6ca0d682af",
+        "id": "1e298ca8c21d3865",
         "type": "tabs",
         "children": [
           {
-            "id": "3d485dac1e796ec8",
+            "id": "1bc4af2ad7074fd5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "README"
             }
           }
         ]
@@ -162,10 +166,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3d485dac1e796ec8",
+  "active": "24c7048fae57a9fa",
   "lastOpenFiles": [
     "README.md",
-    "movie/DUNE/デューン_砂の惑星.md",
+    "movie/デューン_砂の惑星.md",
     "movie/コーダ_あいのうた.md",
     "movie/次元大介.md",
     "movie/劇映画_孤独のグルメ.md",
